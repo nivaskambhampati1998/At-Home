@@ -1,5 +1,5 @@
 # At-Home
-## EnterPrise Application Development
+## Enterprise Application Development
 ### Problem
 People often require home appliances services and many other services to their homes. Some of them cannot find such services nearby, especially when they are new to that place. Some of them cannot make appointments with the required services. 
 
